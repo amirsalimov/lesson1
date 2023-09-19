@@ -1,0 +1,19 @@
+body {
+    background-color: greenyellow;
+  }
+  .divv {
+    border: none;
+    width: 300px;
+    transition: 2s;
+    color: #FFF;
+  }
+  .divv:hover {
+    width: 350px;
+    border-radius: 3px;
+  }
+  .text {
+    color: #FFF;
+  }
+  .text:hover {
+    color: blue;
+  }
